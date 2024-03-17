@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Proper Dark",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Fira Code",
+  "interfaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 13
 }
